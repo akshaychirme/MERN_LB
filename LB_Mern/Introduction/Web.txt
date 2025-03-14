@@ -1,0 +1,18 @@
+What is web development? 
+	- Web is a system of Interconnected documents, photos, videos, etc.
+	- Web is a small entity which belongs to bigger entity like internet.
+	- Web development is a process to create a website and web application.
+	- Website - A static data/content which is in read only format is known as website.
+	- Webapp - A dynamic data/content which can dynamically change by user is known as webapp.
+
+What is Internet?
+	- It is a collection of services OR it is a network of networks.
+	- Web is one of the service that internet provides.
+
+Web Application -
+	- Frontend - Part of web application that users see and interact with.
+		   - We use HTML/CSS/JS/React...
+	- Backend  - Logic of all elements in user interface is all done in backend.
+	- DB layer - Web application data (static/dynamic) is store in Database. 
+
+MERN - MongoDB  |  Express  |  React  |  NodeJS

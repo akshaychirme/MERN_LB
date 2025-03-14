@@ -1,0 +1,24 @@
+Network - Interconnected system of devices which allows for the sharing of resources.
+
+Scale of Network - 
+	LAN - Local Area Network (Home)
+	MAN - Metropolitan Area Network (City)
+	WAN - Wide Area Network (Country)
+
+W.W.W - World Wide Web - is a information system that enables content sharing over the internet.
+
+IP address - it is unique number which is assigned to each device which is connected to network.
+
+Browser - It is a tool/softwear which access a data(docs, websites, webapps, resources) on internet.
+
+Client - machine who sends a request to another machine is called as client.(GET, POSt, PUT, DELETE)
+
+server - Machine who receives a request and process that request is called server.
+
+Domain Name System - DNS server converts Domain name to IP Address.
+
+IPS - Internet Service Provider
+
+IPv - Internet Protocol version
+	IPv4 - 32 bits
+	IPv6 - 128 bits
